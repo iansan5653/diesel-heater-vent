@@ -15,8 +15,17 @@ So I've designed my own to be 3D printed in UV-resistant PETG, meeting the follo
 - Is aesthetically pleasing
 - Supports a simple installation with three flathead screws
 
-## Project setup
+## Printing this part
 
-This model was created with [build123d](https://github.com/gumyr/build123d), which is an excellent parametric 3D CAD library for Python. The source code for the model is `./diesel-heater-vent.py`.
+Download the pre-compiled model files:
+
+- [STL format](./diesel-heater-vent.stl)
+- [3mf format](./diesel-heater-vent.3mf)
+
+Note that for marine purposes the model should be printed in PETG. Sufficient perimeters should be used such that no infill is used in the walls.
+
+## Customization / self-compiling
+
+This model was created with [build123d](https://github.com/gumyr/build123d), which is an excellent parametric 3D CAD library for Python. The source code for the model is [`./diesel-heater-vent.py`](./diesel-heater-vent.py).
 
 If you want to create your own variations of the model, the simplest way to preview and build the file is to create a Codespace from this repository; the OCP Viewer extension and Python will be preinstalled for you. Alternatively, you can install the [OCP Viewer](https://github.com/bernhard-42/vscode-ocp-cad-viewer) extension yourself, or install build123d using any of the supported approaches from the [docs](https://build123d.readthedocs.io/en/latest/installation.html).
