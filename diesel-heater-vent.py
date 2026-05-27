@@ -101,6 +101,8 @@ exporter = Mesher()
 exporter.add_shape(vent)
 exporter.add_code_to_metadata()
 exporter.write("diesel-heater-vent.3mf")
-exporter.write("diesel-heater-vent.stl")
+
+# Using export_stl instead of mesher allows ascii format which can be previewed
+export_stl(vent, "diesel-heater-vent.stl", ascii_format=True)
 
 # %%

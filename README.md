@@ -1,5 +1,9 @@
 # Diesel Heater Intake Vent
 
+[![Screenshot of model](./preview.png)](./diesel-heater-vent.stl)
+
+[**View model**](./diesel-heater-vent.stl)
+
 I recently installed a Vevor 2KW diesel heater on my sailboat (which I'll get around to writing about in a more detailed article eventually).
 
 One of the challenges I encountered is with air intake; in automotive applications the heater is typically installed either on the interior or underside of the car, where it's safe to simply suck in the intake air from the installation location. However, on a sailboat the heater is typically installed in the engine compartment, which is full of smelly, stale air (at best; at worst it becomes toxic carbon monoxide if you have any exhaust leaks). So you need to install ducting and a vent to intake fresh air from the exterior. 
