@@ -100,6 +100,7 @@ show(vent)
 exporter = Mesher()
 exporter.add_shape(vent)
 exporter.add_code_to_metadata()
-exporter.write("heater_intake_vent.3mf")
+exporter.write("diesel-heater-vent.3mf")
+exporter.write("diesel-heater-vent.stl")
 
 # %%
