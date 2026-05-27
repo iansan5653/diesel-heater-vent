@@ -12,7 +12,7 @@ Most of the vents available on Amazon or other sites are designed for interior u
 
 So I've designed my own to be 3D printed in UV-resistant PETG, meeting the following simple requirements:
 
-- Matches the size of the heater intake port so that the same ducting fits both ends
+- Matches the size of the heater intake port (60mm diameter) so that the same ducting fits both ends
 - Resists water ingress with louvers to shed water, plus the duct attachment point tilts upwards so any water that does make it in drains back out
 - Fits nearly flush so that it doesn't take up valuable space or get caught on things
 - Is designed for 3D printing
